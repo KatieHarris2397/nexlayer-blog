@@ -1,0 +1,8 @@
+application:
+  name: "nexlayer-blog"
+  pods:
+    - name: "web"
+      image: "placeholder-will-be-updated"
+      path: "/"
+      servicePorts: [80]
+
